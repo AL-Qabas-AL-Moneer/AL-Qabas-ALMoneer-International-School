@@ -140,7 +140,7 @@ header .fa-times{
 .home{
     min-height: 100vh;
     background: linear-gradient(rgba(20, 30, 70, 0.8), rgba(20, 30, 70, 0.8)), 
-    url('/photo_2024-09-19_09-40-58.jpg') no-repeat;
+    url('photo_2024-09-19_09-40-58.jpg') no-repeat;
     background-size: cover;
     background-position: center;
     background-attachment: fixed;
